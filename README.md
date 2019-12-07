@@ -3,5 +3,5 @@
 ### 楊景婷
 ### 國立台北商業大學 資訊管理系
 ========================
-> 1. this is a practice.
+> - this is a practice.
 
